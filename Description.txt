@@ -1,6 +1,4 @@
 ﻿Ethereum Challenge for Smart Contract Developer Position
-  
-
 
 
 Objective
